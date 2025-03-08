@@ -25,7 +25,8 @@ For software modems like Direwolf or FreeDVTNC, they both use the TCPClientInter
 
 ## List of Radio Packet Modems supported by Reticulum
 ### Software: 
-1. **Direwolf TNC** https://github.com/wb2osz/direwolf
-2. **freedvtnc2** https://github.com/xssfox/freedvtnc2
+1. **fldigi**: https://github.com/w1hkj/fldigi (OFDM-500 and OFDM-750 have good performance over NVIS links)
+2. **Direwolf TNC** https://github.com/wb2osz/direwolf
+3. **freedvtnc2** https://github.com/xssfox/freedvtnc2
 ### Hardware:
  1. **OpenModem** https://unsigned.io/openmodem/ 
