@@ -17,7 +17,6 @@ Using propogation modes like NVIS can overcome the rapidly changing propogation 
 ![Diagram](https://raw.githubusercontent.com/RFnexus/reticulum-over-hf/main/Connection%20Diagram%20for%20ICOM%207300.png)
 
 Reticulum supports most  data modems  through the `TCPClientInterface` with `KISS_FRAMING` enabled or through the serial interface
-- https://reticulum.network/manual/interfaces.html#tcp-server-interface
 - https://reticulum.network/manual/interfaces.html#tcp-client-interface
 
 For software modems like Direwolf or FreeDVTNC, they both use the TCPClientInterface with KISS_FRAMING enabled
