@@ -5,8 +5,11 @@ HF radio is a useful tool for bridging local line of sight Reticulum networks ac
 
 Using propogation modes like NVIS can overcome the rapidly changing propogation conditions and are ideal for briding regional networks within the range of 0 - 500 kilometers ( 0 to 300 miles). NVIS can also accomodate higher bandwidths when compared to traditional HF modes of propogation. At the time of making this video I'm currently working on a dedicated software data modem for packet radio designed for Reticulum which I plan to release by the end of this year. 
 
+https://github.com/RFnexus/FreeDVInterface
 
 ---
+
+
 
 ## Software used:
 
@@ -24,6 +27,7 @@ For software modems like Direwolf or FreeDVTNC, they both use the TCPClientInter
 
 ## List of Radio Packet Modems supported by Reticulum
 ### Software: 
+1. **FreeDVInterface** - A plug and play FreeDVInterface for Reticulum https://github.com/RFnexus/FreeDVInterface
 1. **fldigi**: https://github.com/w1hkj/fldigi (OFDM-500 and OFDM-750 have good performance over NVIS links)
 2. **Direwolf TNC** https://github.com/wb2osz/direwolf
 3. **freedvtnc2** https://github.com/xssfox/freedvtnc2
