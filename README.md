@@ -6,15 +6,10 @@ HF radio is a useful tool for bridging local line of sight Reticulum networks ac
 Using propogation modes like NVIS can overcome the rapidly changing propogation conditions and are ideal for briding regional networks within the range of 0 - 500 kilometers ( 0 to 300 miles). NVIS can also accomodate higher bandwidths when compared to traditional HF modes of propogation. 
 
 https://github.com/RFnexus/FreeDVInterface
+https://github.com/RFnexus/modem73
 
 ---
 
-
-
-## Software used:
-
-1. **NomadNet** https://github.com/markqvist/NomadNet 
-2. **freedvtnc2** https://github.com/xssfox/freedvtnc2
 ## Equipment used:
 
 ![Diagram](https://raw.githubusercontent.com/RFnexus/reticulum-over-hf/main/Connection%20Diagram%20for%20ICOM%207300.png)
@@ -28,8 +23,9 @@ For software modems like Direwolf or FreeDVTNC, they both use the TCPClientInter
 ## List of Radio Packet Modems supported by Reticulum
 ### Software: 
 1. **FreeDVInterface** - A plug and play FreeDVInterface for Reticulum https://github.com/RFnexus/FreeDVInterface
-1. **fldigi**: https://github.com/w1hkj/fldigi (OFDM-500 and OFDM-750 have good performance over NVIS links)
-2. **Direwolf TNC** https://github.com/wb2osz/direwolf
-3. **freedvtnc2** https://github.com/xssfox/freedvtnc2
+2. **modem73** https://github.com/RFnexus/modem73
+3. **fldigi**: https://github.com/w1hkj/fldigi (OFDM-500 and OFDM-750 have good performance over NVIS links)
+4. **Direwolf TNC** https://github.com/wb2osz/direwolf
+6. **freedvtnc2** https://github.com/xssfox/freedvtnc2
 ### Hardware:
  1. **OpenModem** https://unsigned.io/openmodem/ 
