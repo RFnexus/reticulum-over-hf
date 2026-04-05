@@ -5,8 +5,10 @@ HF radio is a useful tool for bridging local line of sight Reticulum networks ac
 
 Using propogation modes like NVIS can overcome the rapidly changing propogation conditions and are ideal for briding regional networks within the range of 0 - 500 kilometers ( 0 to 300 miles). NVIS can also accomodate higher bandwidths when compared to traditional HF modes of propogation. 
 
-https://github.com/RFnexus/FreeDVInterface
 https://github.com/RFnexus/modem73
+
+https://github.com/RFnexus/FreeDVInterface
+
 
 ---
 
